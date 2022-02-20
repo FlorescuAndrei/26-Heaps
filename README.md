@@ -1,5 +1,5 @@
 # 26-Heaps
-Heap backed up by an array,  Insert. Delete. Peek. Priority Queue.  
+Heap backed up by an array,  Insert. Delete. Peek. Priority Queue. Heap sort algorithm  
 
 Heaps  
 -  Must be a complete binary tree
