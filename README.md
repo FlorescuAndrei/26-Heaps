@@ -50,7 +50,7 @@ When we use heaps we usually want to work with the root. Min or Max always are a
 The heap for this application:
 
 ![Project Heap image](box/heap.png)  
-![Project Heap image](<img src="box/heap.png" width="500" height="500" />)  
+![Project Heap image]<img src="box/heap.png" width="500" height="300" /> 
 
 Associated array: 80, 75, 60, 68, 55, 40, 52, 67
 
