@@ -66,7 +66,7 @@ In this app, we initialize an array of 10 element for the heap, the last two ele
     
 **Heap sort algorithm**
 
-Sort the backe up array of a heap.  
+Sort the backed up array of a heap.  
 After the sort the array is no longer a heap.
 -  The root has the largest value
 -  Swap root with last element in the array  
