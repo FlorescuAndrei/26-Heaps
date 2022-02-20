@@ -19,7 +19,8 @@ For Heaps my implementation use an array.
   
 The Heaps Exists,  mostly because the max or min value is at the root so can be access in O(1) time complexity.  
 
-For a Max Heap if you travel form the root to the leaf all the value are in descending order. Similar to Min Heaps , ascending order. This is a way to check a Heap.  
+For a Max Heap if you travel form the root to the leaf all the value are in descending order. Similar to Min Heaps , ascending order.   
+This is a way to check a Heap.  
 
 Heaps as Arrays  
 -  Put the root at array[0]  
