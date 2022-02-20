@@ -47,8 +47,7 @@ Delete from Heap
 
 When we use heaps we usually want to work with the root. Min or Max always are at the root.  
 
-The heap for this application:
- 
+The heap for this application: 
 <img src="box/heap.png" width="400" height="300" /> 
 
 Associated array: 80, 75, 60, 68, 55, 40, 52, 67
