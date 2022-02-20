@@ -48,9 +48,8 @@ Delete from Heap
 When we use heaps we usually want to work with the root. Min or Max always are at the root.  
 
 The heap for this application:
-
-![Project Heap image](box/heap.png)  
-<img src="box/heap.png" width="500" height="400" /> 
+ 
+<img src="box/heap.png" width="400" height="300" /> 
 
 Associated array: 80, 75, 60, 68, 55, 40, 52, 67
 
