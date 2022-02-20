@@ -55,10 +55,29 @@ Associated array: &emsp; &emsp; &emsp; 80, 75, 60, 68, 55, 40, 52, 67
 In this app, we initialize an array of 10 element for the heap, the last two elements will be by defaul 0, 0 , but they will not be consider in heap logic.
 
 
-**Priority Queue**  
+**Priority Queue**    
+ 
+ The elements of the priority queue are ordered according to their natural ordering.  
+ When we add an item we assign a priority for it. Instead of access in the queue specific FIFO ways we want to access  the highest priority item.  
+ Like hospital emergency room.  
+ Heaps, backed up by arrays,  are an ideal structure for this because the root has the max or min item.   
+ JDK has the PriorityQueue<E> class based on heaps  
+    
+    
 **Heap sort algorithm**
 
-
+Sort the backe up array of a heap.  
+After the sort the array is no longer a heap.
+-  The root has the largest value
+-  Swap root with last element in the array  
+-  Heapify the tree, but exclude the last node  
+-  Now second largest element is at the root
+-  Rinse and repeat  
+    
+In-place algorithm.  
+Time complexity O(nlog<sub>2</sub>n). At each iteration of the loop O(n), we have to fix the heap O(log<sub>2</sub>n).  
+    
+Alongside with Binary Search Trees, Heap sort algorithm it an good alternativ way to sort an array.
 
 
 [BACK TO START PAGE](https://github.com/FlorescuAndrei/Start.git) 
