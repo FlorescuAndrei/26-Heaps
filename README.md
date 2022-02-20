@@ -77,7 +77,7 @@ After the sort the array is no longer a heap.
 In-place algorithm.  
 Time complexity O(nlog<sub>2</sub>n). At each iteration of the loop O(n), we have to fix the heap O(log<sub>2</sub>n).  
     
-Alongside with Binary Search Trees, Heap sort algorithm it an good alternativ way to sort an array.
+Together with Binary Search Trees, Heap sort algorithm it an good alternative way to sort an array.
 
 
 [BACK TO START PAGE](https://github.com/FlorescuAndrei/Start.git) 
