@@ -58,7 +58,7 @@ In this app, we initialize an array of 10 element for the heap, the last two ele
 **Priority Queue**    
  
  The elements of the priority queue are ordered according to their natural ordering.  
- When we add an item we assign a priority for it. Instead of access in the queue specific FIFO ways we want to access  the highest priority item.  
+ When we add an item we assign a priority for it. Instead of access in the queue specific FIFO, ways we want to access  the highest priority item.  
  Like hospital emergency room.  
  Heaps, backed up by arrays,  are an ideal structure for this because the root has the max or min item.   
  JDK has the PriorityQueue<E> class based on heaps  
