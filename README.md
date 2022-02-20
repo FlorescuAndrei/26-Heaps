@@ -50,7 +50,7 @@ When we use heaps we usually want to work with the root. Min or Max always are a
 The heap for this application: 
 <img src="box/heap.png" width="400" height="300" /> 
 
-Associated array: &emsp &emsp 80, 75, 60, 68, 55, 40, 52, 67
+Associated array: &emsp; &emsp; &emsp; 80, 75, 60, 68, 55, 40, 52, 67
 
 In this app, we initialize an array of 10 element for the heap, the last two elements will be by defaul 0, 0 , but they will not be consider in heap logic.
 
